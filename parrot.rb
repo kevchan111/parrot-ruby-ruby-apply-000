@@ -1,3 +1,3 @@
-def parrot (arg , string = "Squawk")
-   return string
+def parrot (string)
+   return string = "Squawk!"
 end
