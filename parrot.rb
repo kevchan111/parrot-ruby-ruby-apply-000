@@ -1,3 +1,3 @@
-def parrot (string , default = "Squawk!")
-puts "#{string} #{default}"
-end 
+def parrot (string="Squawk!")
+puts "#{string}"
+end
